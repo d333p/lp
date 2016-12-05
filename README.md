@@ -41,6 +41,7 @@
 	* [ ] скачать WinEEG и перегнать файл .eeg в .txt либо .edf
 	* [ ] see результаты https://github.com/sstober/ismir2016-brainbeats
 	* [ ] полистать результаты Стобера https://goo.gl/dzsujC
+	* [ ] интересно ли http://ir.lib.uwo.ca/etd/3769/ ?
 	* [ ] сформулировать себе пару задач
 
 ## Коля.
@@ -133,4 +134,5 @@
     * [ ] скачать WinEEG
     * [ ] поискать на гитхабе проекты по eeg + deep learning
 	* [ ] найти интересных соавторов Stuberа https://goo.gl/dzsujC
+	* [ ] выписать заинтересовавшие статьи из https://goo.gl/UJt4CL
 	* [ ] сформулировать себе пару задач
