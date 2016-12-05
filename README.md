@@ -13,7 +13,7 @@
 7. цели, текущие задачи
 8. TODO list с ориентировочными дедлайными, с которыми сами синхронизовываемся
 
-В каждой именной папке внутри репа необходимо с одной стороны коротко, с другой стороны ёмко стараться рефлексировать над прочитанным материалом. Хороший пример лежит [здесь](https://github.com/aleju/papers). Много материала по DL лежит [здесь](https://github.com/ChristosChristofidis/awesome-deep-learning). [Пара](https://github.com/sheuan/Neural-Networks-on-Silicon) [вариантов](https://github.com/shaoxiaohu/CVPR2016) оформления ссылок на литературу. 
+В каждой именной папке внутри репа необходимо с одной стороны коротко, с другой стороны ёмко стараться рефлексировать над прочитанным материалом. Хороший пример лежит [здесь](https://github.com/aleju/papers) :: по каждой статье приведён её sumup. Много материала по DL лежит [здесь](https://github.com/ChristosChristofidis/awesome-deep-learning). [Пара](https://github.com/sheuan/Neural-Networks-on-Silicon) [вариантов](https://github.com/shaoxiaohu/CVPR2016) оформления ссылок на литературу. 
 
 ## Trick to know:
 
