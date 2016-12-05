@@ -51,9 +51,11 @@
     * Twitter
 
 ### links
-    * [in TJournal: Почти как в сериалах: разработчик научил нейросеть улучшать качество фото низкого разрешения](https://tjournal.ru/36647-pochti-kak-v-serialah-razrabotchik-nauchil-neiroset-uluchshat-kachestvo-foto-nizkogo-razresheniya)
+* [in TJournal: Почти как в сериалах: разработчик научил нейросеть улучшать качество фото низкого разрешения](https://tjournal.ru/36647-pochti-kak-v-serialah-razrabotchik-nauchil-neiroset-uluchshat-kachestvo-foto-nizkogo-razresheniya)
+
 ### shared code
-    * [Neural Enhance: increase the resolution of your photos using DL](https://github.com/alexjc/neural-enhance)
+* [Neural Enhance: increase the resolution of your photos using DL](https://github.com/alexjc/neural-enhance)
+
 ### data
 ### my code
 ### results
