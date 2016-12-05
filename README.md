@@ -92,6 +92,7 @@
 2. [Best practice for single-trial detection of event-related potentials: Application to brain-computer interfaces, 2016: Cecotti, Reis](https://www.ncbi.nlm.nih.gov/pubmed/27453051)
     * added 2016/12/05
 	* Faculty of Computing and Engineering, Ulster University, Magee campus, Londonderry, Northern Ireland, UK
+	
 	  Human Research and Engineering Directorate, US Army Research Laboratory, Aberdeen Proving Ground, USA
 
 3. [Deeply-Recursive Convolutional Network for Image Super-Resolution, 2016: Jiwon Kim, Jung Kwon Lee ](https://arxiv.org/abs/1511.04491)
