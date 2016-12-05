@@ -121,7 +121,7 @@
 ### purposes, targets
 ### TODO
 * Added by Yura. 2016/12/05:
-    * [ ] почитать про P300
+    * [ ] почитать про P300 ERP
     * [ ] посмотреть https://www.youtube.com/watch?v=-50fVNjm_2Y
     * [ ] Шишкина https://www.youtube.com/watch?v=mSWoXrig2oM
     * [ ] https://www.youtube.com/watch?v=mSWoXrig2oM
