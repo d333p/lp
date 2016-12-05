@@ -18,6 +18,7 @@
 ## Trick to know:
 
 1. [TODO] описать tips&tricks которые нужно знать
+2. фиксируйте вопросы, которые возникают в процессе
 
 ## Таня.
 
@@ -33,6 +34,12 @@
 ### results
 ### purposes, targets
 ### TODO
+* Added by Yura. 2016/12/05:
+    * [ ] оформить свой реп
+    * [ ] add пару статей по теме BCI и ЭЭГ процессингу, включая HOTSAX
+    * [ ] внимательно посмотреть раздел Артёма
+	* [ ] скачать WinEEG и перегнать файл .eeg в .txt либо .edf
+	* [ ] see результаты https://github.com/sstober/ismir2016-brainbeats
 
 ## Коля.
 
@@ -70,17 +77,17 @@
 ### purposes, targets
 ### TODO
 * Added by Yura. 2016/12/05:
-    * [] оформить свой реп
-    * [] add пару статей по теме deeplearn, желательно Le Cun
-    * [] add пару статей или манов по фильтрации видео use deeplearn
-	* [] начать читать
-	* [] запустить пример
+    * [ ] оформить свой реп
+    * [ ] add пару статей по теме deeplearn, желательно Le Cun
+    * [ ] add пару статей или манов по фильтрации видео use deeplearn
+	* [ ] начать читать
+	* [ ] запустить пример
 
 ## Артём.
 
 ### theme (предварительная)
 
-~ определение ВП по одному предъявлению
+~ Тема: определение ВП в ЕЕГ по одному предъявлению стимула. Пусть это будет визуальный стимул.
 ~ keywords: глубокое обучение/deeplearning, мки/bci, ээг/eeg, вызванные потенциалы/event releated potentials
 
 ### lit
@@ -109,16 +116,16 @@
 
 ### shared code
 ### data
-
-
 ### my code
 ### results
 ### purposes, targets
 ### TODO
-
-* [] почитать про P300
-* [] посмотреть https://www.youtube.com/watch?v=-50fVNjm_2Y
-* [] Шишкина https://www.youtube.com/watch?v=mSWoXrig2oM
-* [] https://www.youtube.com/watch?v=mSWoXrig2oM
-* [] https://www.youtube.com/watch?v=4LCkDwcXMHE 
-* [] найти авторов победителей конкурса по BCI
+* Added by Yura. 2016/12/05:
+    * [ ] почитать про P300
+    * [ ] посмотреть https://www.youtube.com/watch?v=-50fVNjm_2Y
+    * [ ] Шишкина https://www.youtube.com/watch?v=mSWoXrig2oM
+    * [ ] https://www.youtube.com/watch?v=mSWoXrig2oM
+    * [ ] https://www.youtube.com/watch?v=4LCkDwcXMHE 
+    * [ ] найти авторов победителей конкурса по BCI
+    * [ ] скачать WinEEG
+    * [ ] поискать на гитхабе проекты по eeg + deep learning
