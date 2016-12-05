@@ -69,7 +69,7 @@
 ### results
 ### purposes, targets
 ### TODO
-* Added by Yu. 2016/12/05:
+* Added by Yura. 2016/12/05:
     * [] оформить свой реп
     * [] add пару статей по теме deeplearn, желательно Le Cun
     * [] add пару статей или манов по фильтрации видео use deeplearn
@@ -97,13 +97,16 @@
 
 3. [BRAIN BEATS: TEMPO EXTRACTION FROM EEG DATA](http://bib.sebastianstober.de/ismir2016.pdf)(https://goo.gl/SuG3jf)
     * added 2016/12/05
-	* [TODO] дополнить
+	* [TODO] оформить
 
-4. [Photo-Realistic Super-Resolution Using a Generative Adversarial Network, 2016: Ledig, Theis](https://arxiv.org/abs/1609.04802)
+4. [Convolutional Neural Networks for P300 Detection with Application to Brain-Computer Interfaces, 2016: Ledig, Theis](http://uir.ulster.ac.uk/27675/1/cecotti_pami.pdf)
     * added 2016/12/05
-	* Twitter
+	
 
 ### links
+
+* [Победа алгоритмов DL в BCI конкурсе](https://news.developer.nvidia.com/imperial-college-leveraging-deep-learning-in-cybathlons-brain-computer-interface-race/)
+
 ### shared code
 ### data
 
@@ -112,3 +115,10 @@
 ### results
 ### purposes, targets
 ### TODO
+
+* [] почитать про P300
+* [] посмотреть https://www.youtube.com/watch?v=-50fVNjm_2Y
+* [] Шишкина https://www.youtube.com/watch?v=mSWoXrig2oM
+* [] https://www.youtube.com/watch?v=mSWoXrig2oM
+* [] https://www.youtube.com/watch?v=4LCkDwcXMHE 
+* [] найти авторов победителей конкурса по BCI
