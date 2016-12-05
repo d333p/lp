@@ -95,9 +95,9 @@
 	
 	  Human Research and Engineering Directorate, US Army Research Laboratory, Aberdeen Proving Ground, USA
 
-3. [Deeply-Recursive Convolutional Network for Image Super-Resolution, 2016: Jiwon Kim, Jung Kwon Lee ](https://arxiv.org/abs/1511.04491)
+3. [BRAIN BEATS: TEMPO EXTRACTION FROM EEG DATA](http://bib.sebastianstober.de/ismir2016.pdf)(https://goo.gl/SuG3jf)
     * added 2016/12/05
-	* Department of ECE, ASRI, Seoul National University, Korea
+	* [TODO] дополнить
 
 4. [Photo-Realistic Super-Resolution Using a Generative Adversarial Network, 2016: Ledig, Theis](https://arxiv.org/abs/1609.04802)
     * added 2016/12/05
