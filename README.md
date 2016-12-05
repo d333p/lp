@@ -71,8 +71,10 @@
 ### TODO
 * Added by Yu. 2016/12/05:
     * [] оформить свой реп
-    * [] add пару статей по теме deeplearn
-    * [] add пару статей по фильтрации видео use deeplearn
+    * [] add пару статей по теме deeplearn, желательно Le Cun
+    * [] add пару статей или манов по фильтрации видео use deeplearn
+	* [] начать читать
+	* [] запустить пример
 
 ## Артём.
 
@@ -87,9 +89,10 @@
     * added 2016/12/05
     * The Brain and Mind Institute, University of Western Ontario, London, ON, Canada
 
-2. [Real-Time Super-Resolution Using Efficient Sub-Pixel Convolution, 2016: Shi, Caballero](https://arxiv.org/abs/1609.05158)
+2. [Best practice for single-trial detection of event-related potentials: Application to brain-computer interfaces, 2016: Cecotti, Reis](https://www.ncbi.nlm.nih.gov/pubmed/27453051)
     * added 2016/12/05
-	* Twitter
+	* Faculty of Computing and Engineering, Ulster University, Magee campus, Londonderry, Northern Ireland, UK
+	  Human Research and Engineering Directorate, US Army Research Laboratory, Aberdeen Proving Ground, USA
 
 3. [Deeply-Recursive Convolutional Network for Image Super-Resolution, 2016: Jiwon Kim, Jung Kwon Lee ](https://arxiv.org/abs/1511.04491)
     * added 2016/12/05
